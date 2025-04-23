@@ -1,6 +1,6 @@
 <img src="banner.png" alt="GitHub Banner" width="100%" />
 
-# Hello World!, I'm Tabish, a Full Stack Web Developer(MERN) 👋🏼:
+# Hey, I'm Tabish, a passionate Full Stack Web Developer👋🏼:
 
 <br>
 
@@ -16,7 +16,6 @@
 </div>
 
 
--   <img width="15px" src="https://cdn-icons-png.flaticon.com/512/534/534621.png" alt="Terminal Icon" /> I’m a passionate 🧑‍💻 **Full Stack Web Developer(MERN)**
 -   <img width="15px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="Linkedin Icon" /> Join Me On Linkedin <a href="https://www.linkedin.com/in/tabish-khan-61a14124a/">**Tabish Khan**</a>
 -   <img width="13px" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="Gmail Icon" /> How to reach me <a href="mailto:tabishkhan1811@gmail.com">**tabishkhan1811@gmail.com**</a>
 -   <img width="13px" src="https://cdn-icons-png.flaticon.com/512/4365/4365934.png" alt="Portfolio Icon" /> My <a href="https://tabishkhan18.github.io/">**Portfolio**</a>
