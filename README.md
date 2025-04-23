@@ -1,4 +1,6 @@
-# Hi 👋! My name is Tabish Khan
+<img src="banner.png" alt="GitHub Banner" width="100%" />
+
+# Hello World!, I'm Tabish, a Full Stack Web Developer(MERN) 👋🏼:
 
 <br>
 
