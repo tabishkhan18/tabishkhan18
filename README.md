@@ -49,6 +49,8 @@
 <!--   <img src="https://github-contributor-stats.vercel.app/api?username=tabishkhan18&limit=5&theme=tokyonight&hide_border=true&combine_all_yearly_contributions=true" /> -->
 </p>
 
+<img src="https://raw.githubusercontent.com/tabishkhan18/tabishkhan18/output/snake.svg" alt="Snake animation" width="100%"/>
+
 [![](https://visitcount.itsvg.in/api?id=tabishkhan18&icon=5&color=4)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
