@@ -39,13 +39,19 @@
 
 <h1>📊 GitHub Stats:</h1>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tabishkhan18&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=tabishkhan18&theme=tokyonight&hide_border=true" />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=tabishkhan18&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" />
+    </td>
+    <td>
+      <img src="https://nirzak-streak-stats.vercel.app/?user=tabishkhan18&theme=tokyonight&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tabishkhan18&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" style="width: 400px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tabishkhan18&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="40%" />
 <!--   <img src="https://github-contributor-stats.vercel.app/api?username=tabishkhan18&limit=5&theme=tokyonight&hide_border=true&combine_all_yearly_contributions=true" /> -->
 </p>
 
