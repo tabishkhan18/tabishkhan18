@@ -23,15 +23,20 @@
 <h1>🌐 Socials:</h1>
 
 <p >
-  <a href="https://instagram.com/tabish_khan____/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
-  </a>
+  
   <a href="https://linkedin.com/in/tabish-khan-61a14124a/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:tabishkhan1811@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
   </a>
+  <a href="https://instagram.com/tabish_khan____/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/people/Tabish-Khan/pfbid0TkszicCosL1JXmipL98PC6BzzibQDBW7Wn1PQXVrytQtiJZEEkfZS19pSetTsHFkl/?mibextid=ZbWKwL">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" />
+  </a>
+  
 </p>
 
 # 💻 Tech Stack:
