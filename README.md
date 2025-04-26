@@ -24,7 +24,7 @@
 
 <p >
   
-  <a href="https://linkedin.com/in/tabish-khan-61a14124a/">
+  <a href="https://www.linkedin.com/in/tabishkhan1824/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:tabishkhan1811@gmail.com">
