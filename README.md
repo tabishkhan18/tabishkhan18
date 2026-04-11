@@ -1,6 +1,6 @@
 <img src="banner.png" alt="GitHub Banner" width="100%" />
 
-# Hey, I'm Tabish, a passionate Full Stack Web Developer👋🏼:
+# Hey, I'm Tabish, Full Stack Developer👋🏼:
 
 <br>
 
